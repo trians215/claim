@@ -7,7 +7,7 @@ echo color("grey","| ______|____•_+ Buat PIN_•___|_______|\n");
 echo color("grey","| ________|______|__|_______|_________|\n");
 echo color("grey","| __________|___|_____|___|___________|\n");
 echo color("grey","| ____________|___21____|_____________|\n");
-echo color("grey","| Version :__∆UBUR - UBUR∆____________|\n");
+echo color("grey","| Version :__∆COCOL - COCOL∆____________|\n");
 echo color("white","| Time    :".date('[d-m-Y] [H:i:s]    ')."|\n");
 echo color("grey"," ======================================\n");
 
@@ -82,7 +82,7 @@ echo color("grey"," ======================================\n");
         goto goride;
         }else{
         echo "\n".color("red","-] Message: ".$messageboba19);
-        echo "\n".color("yellow","!] Claim voc VOUCHER GAME ML");
+        echo "\n".color("yellow","!] Claim voc GOFOOD021120B");
         echo "\n".color("yellow","!] Please wait");
         for($a=1;$a<=3;$a++){
         echo color("yellow",".");
@@ -97,7 +97,7 @@ echo color("grey"," ======================================\n");
         }else{
         echo "\n".color("green","+] Message: ".$messageboba11);
         goride:
-        echo "\n".color("yellow","!] Claim voc GOFOOD 15+10K ");
+        echo "\n".color("yellow","!] Claim voc COBAGORIDE ");
         echo "\n".color("yellow","!] Please wait");
         for($a=1;$a<=3;$a++){
         echo color("yellow",".");

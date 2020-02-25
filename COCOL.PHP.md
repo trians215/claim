@@ -1,4 +1,4 @@
-Daftar + Auto Claim Voucher Gofood Terbaru 22/02/2020
+Daftar + Auto Claim Voucher Gofood Terbaru 25/02/2020
 
 
 Jangan Lupa Berdoa Sebelum Menjalankan Scripnya
@@ -9,10 +9,10 @@ Perhatikan Langkah-Langkahnya
 3. pkg install php
 4. pkg install curl
 5. pkg install git
-7. git clone https://github.com/mrubay/claim
+7. git clone https://github.com/trians215/cocol
 Lalu masukan kode perintah untuk menjalankan script , Kode dibawah ini untuk daftar dan auto claim voucher gofood gojek
-8. cd claim
-9. php claim.php
+8. cd cocol
+9. php cocol.php
 10. Masukin nomor yang mau didaftarkan
 11. Masukin Kode Otpnya
 Enter Dan Selesai

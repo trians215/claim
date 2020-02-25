@@ -55,7 +55,7 @@ echo color("grey"," ======================================\n");
         echo color("blue","+] Your access token : ".$token."\n\n");
         save("token.txt",$token);
         echo color("red","===========(REDEEM VOUCHER)===========");
-        echo "\n".color("yellow","!] Claim voc GORIDE 8K");
+        echo "\n".color("yellow","!] Claim voc COBAGORIDE");
         echo "\n".color("yellow","!] Please wait");
         for($a=1;$a<=3;$a++){
         echo color("yellow",".");
@@ -97,7 +97,7 @@ echo color("grey"," ======================================\n");
         }else{
         echo "\n".color("green","+] Message: ".$messageboba11);
         goride:
-        echo "\n".color("yellow","!] Claim voc COBAGORIDE ");
+        echo "\n".color("yellow","!] Claim voc COBAGOCAR ");
         echo "\n".color("yellow","!] Please wait");
         for($a=1;$a<=3;$a++){
         echo color("yellow",".");
